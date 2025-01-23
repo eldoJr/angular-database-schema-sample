@@ -1,5 +1,7 @@
 # Angular database schema sample
 
+Demo: [preview](https://angular-database-schema-sample.vercel.app/)
+
 Developer sample written in Angular, demonstrating how to use the Gemini API and
 function calling to collaboratively and iteratively create a database schema
 using natural language prompts.
